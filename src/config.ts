@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://workgroupro.github.io/", // replace this with your deployed domain
+  website: "https://yipianye.github.io/", // replace this with your deployed domain
   author: "Sat Naing",
   desc: "您的网站描述。对于搜索引擎优化和社交媒体共享很有用.",
-  title: "workgroupro",
+  title: "yipianye",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true, //启用或禁用light & dark mode网站。如果禁用，将使用原色方案。默认情况下启用此选项
   postPerPage: 6, // 您可以指定每个帖子页面中显示的帖子数量。 （例如：如果您将 SITE.postPerPage 设置为 3，则每页将仅显示 3 个帖子）
